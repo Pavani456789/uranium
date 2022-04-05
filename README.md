@@ -1,2 +1,2 @@
 # uranium
-uranium repo
+uranium repo telugu skillhub
